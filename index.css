@@ -14,6 +14,7 @@ header{
 }
 
 nav{
+    
     width: 90%;
     margin: 1% auto;
     text-align: center;
@@ -25,7 +26,7 @@ nav ul li{
 
 nav ul li a{
     text-decoration: none;
-    color: #c9d1d9;
+    color: #0d1117;
     font-size: 125%;
     margin: 0px 4vw;
     letter-spacing: 1px;
