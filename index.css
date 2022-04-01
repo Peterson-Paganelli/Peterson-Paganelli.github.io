@@ -3,6 +3,7 @@
     max-width: 100%;
     scroll-behavior: smooth;
 }
+
 body{
     color: #0d1117;
     background-color: #c9d1d9;
@@ -35,8 +36,9 @@ nav ul li a{
 nav ul li a:hover{
     text-decoration: underline;
 }
-
-
+h5{
+    color: rgba(0, 0, 0, 0.349);
+}
 .about-container{
     width: 85%;
     margin: 0px auto;
@@ -52,8 +54,29 @@ nav ul li a:hover{
 }
 
 .right-box{
+    font-family: serif;
     width: 45%;
     margin-left: 10%;
+}
+
+Arrumar
+.portifolio{
+    text-decoration: none;
+}
+.contact-section{
+    width: 100vw;
+    height: 50vh;
+    background-color: rgb(207, 19, 107);
+    text-align: center;
+    
+}
+
+.social-media{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 80vw;
+    margin: 0 auto;
 }
 
 .icon{
