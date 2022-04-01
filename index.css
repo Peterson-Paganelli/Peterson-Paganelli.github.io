@@ -36,9 +36,11 @@ nav ul li a{
 nav ul li a:hover{
     text-decoration: underline;
 }
+
 h5{
     color: rgba(0, 0, 0, 0.349);
 }
+
 .about-container{
     width: 85%;
     margin: 0px auto;
@@ -59,19 +61,24 @@ h5{
     margin-left: 10%;
 }
 
-Arrumar
-.portifolio{
+div h4 a{
     text-decoration: none;
+    color: #0d1117;
 }
+
+div h4 a:hover{
+    text-decoration: underline;
+}
+
 .contact-section{
     width: 100vw;
-    height: 50vh;
-    background-color: rgb(207, 19, 107);
+    height: 20vh;
+    background-color: rgb(128, 128, 128);
     text-align: center;
     
 }
 
-.social-media{
+.pages{
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -81,6 +88,6 @@ Arrumar
 
 .icon{
     margin: 0px 7.5px;
-    width: 3%;
+    width: 45px;
 }
 
