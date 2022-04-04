@@ -42,9 +42,9 @@ h5{
     color: rgba(0, 0, 0, 0.349);
 }
 
-#about-box{
+#name-box{
     text-align: center;
-    margin: 70px 0px 30px;
+    margin-bottom: 10px;
 }
 
 .about-container{
@@ -63,7 +63,7 @@ h5{
 
 .right-box{
     padding: auto;
-    background-color: #0d1117;
+    background-color: white;
     font-family: serif;
     width: 45%;
     margin-left: 10%;
